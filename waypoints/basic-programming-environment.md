@@ -12,7 +12,12 @@ This section assumes you are working in a [BASH shell](https://en.wikipedia.org/
 - [ ] can explain what a path is
 - [ ] can articulate the difference between an absolute and relative path
 - [ ] can articulate the difference between an `/`, `./` , `../`
-- [ ] can articulate the difference between `control-c` and  `control-z`
+- [ ] can explain what these key commands do
+  - [ ] `control-c`
+  - [ ] `control-d`
+  - [ ] `control-z`
+  - [ ] `control-a`
+  - [ ] `control-e`
 - [ ] can explain what the $PATH environment variable is for
 - [ ] can add and remove paths from their $PATH
 - [ ] can install a package via homebrew
@@ -21,21 +26,21 @@ This section assumes you are working in a [BASH shell](https://en.wikipedia.org/
 - [ ] can explain what `environment variables` are
 - [ ] can check the value of an environment variable
 - [ ] can set a new environment variable for all new shells
-- [ ] can colorize their $PS1
+- [ ] can colorize and customize their prompt
 - [ ] can tab complete git commands
-- [ ] can explain control-c and control-d terminal key commands
 - [ ] can explain and use the following shell commands
   - [ ] ls
   - [ ] cd
-  - [ ] touch
-  - [ ] rm
-  - [ ] mkdir
-  - [ ] rmdir
-  - [ ] chmod
+  - [ ] cat
   - [ ] pwd
+  - [ ] less
+  - [ ] touch
+  - [ ] echo
+  - [ ] mkdir
+  - [ ] rm
   - [ ] ps
   - [ ] kill
-  - [ ] echo
+- [ ] can create a bash alias
 - ~~[ ] can write a basic bash script~~
 - ~~[ ] can start and stop processes via `brew services`~~
 - ~~[ ] can explain the file permission printed by 'ls -la'~~
@@ -56,9 +61,9 @@ This section assumes you are working in a [BASH shell](https://en.wikipedia.org/
 - [ ] can clone an existing git repository
 - [ ] can push and pull to and from a remote git repository
 - [ ] can commit using `git add --patch`
-- ~~[ ] can undo the previous commit using `git reset`~~
 - [ ] can tell git to ignore files with `.gitignore`
 - [ ] can create a Github pull request
+- ~~[ ] can undo the previous commit using `git reset`~~
 - ~~[ ] can rebase a branch~~
 - ~~[ ] can cherry-pick a commit~~
 - ~~[ ] can use `git rebase --interactive`~~
