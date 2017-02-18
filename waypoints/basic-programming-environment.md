@@ -3,6 +3,7 @@
 This sections covers the basics of what you'll need to know to begin programming on a UNIX system.
 
 This section assumes you are working in a [BASH shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+
 ## Skills:
 
 *UNIX / Shell*

@@ -2,7 +2,7 @@
 
 *NOTE: This document is a work in progress*
 
-Please see [CONTRIBUTING](./contributing.md)
+Please see [WIP](./wip.md) for more details
 
 ## Preface
 
@@ -33,3 +33,13 @@ At the end of each project:
 0. [Intermediate Programming in JavaScript and Node](./waypoints/intermediate-programming-in-javascript-and-node.md)
 0. [Basic Relational Data Storage](./waypoints/basic-relational-data-storage.md)
 0. [Intermediate Web App Architecture](./waypoints/intermediate-web-app-architecture.md)
+
+
+## Contributing
+
+Leave your trace! Please leave this trail better than when you found it. Please consider contributing:
+
+- links to resources that helped you
+- additional skills you learned along your way
+
+Please see [CONTRIBUTING](./contributing.md)
