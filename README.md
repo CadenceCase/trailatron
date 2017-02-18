@@ -2,7 +2,7 @@
 
 *NOTE: This document is a work in progress*
 
-Please see [WIP](./wip.md) for more details
+Please see [WIP](./WIP.md) for more details
 
 ## Preface
 

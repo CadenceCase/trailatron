@@ -1,3 +1,8 @@
+# Work In Progress
+
+
+I'm still working out what skills go where. Skills thats are striked through ~~like this~~ are too advanced and belong in a future skill grouping*
+
 
 ## Resource finder:
 
@@ -6,6 +11,7 @@
 - https://www.khanacademy.org/
 - https://www.freecodecamp.com/
 - https://frontendmasters.com/
+- https://nodeschool.io/
 
 ------
 
