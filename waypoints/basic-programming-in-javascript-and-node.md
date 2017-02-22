@@ -60,6 +60,7 @@ This guide assumes you are using Node `7.5.0` or higher
 
 - https://github.com/workshopper/learnyounode
 - https://github.com/jesstelford/scope-chains-closures
+- http://nodeguide.com/beginner.html
 
 
 *Programming*:

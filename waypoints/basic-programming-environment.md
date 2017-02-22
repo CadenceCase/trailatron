@@ -56,11 +56,14 @@ This section assumes you are working in a [BASH shell](https://en.wikipedia.org/
 
 *Git*
 
-- [ ] can create a new git repository
-- [ ] can push a new git repository up to Github
 - [ ] can clone an existing git repository
-- [ ] can push and pull to and from a remote git repository
-- [ ] can commit using `git add --patch`
+- [ ] can stage files using `git add --patch`
+- [ ] can create a commit
+- [ ] can push up to a remote repository
+- [ ] can create a new Github repository
+- [ ] can initialize a new git repository
+- [ ] can setup a github repository as a remote
+- [ ] can pull down from a remote repository
 - [ ] can tell git to ignore files with `.gitignore`
 - [ ] can create a Github pull request
 - ~~[ ] can undo the previous commit using `git reset`~~
